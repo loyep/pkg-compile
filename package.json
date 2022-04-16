@@ -30,7 +30,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@vercel/ncc": "0.33.3",
+    "@vercel/ncc": "0.33.4",
     "dts-packer": "^0.0.3",
     "fs-extra": "^10.0.1",
     "minimist": "^1.2.6"
