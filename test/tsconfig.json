@@ -1,0 +1,24 @@
+{
+  "exclude": [
+    "**/dist/**"
+  ],
+  "include": [
+    ".",
+    "jest"
+  ],
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "strict": true,
+    "skipLibCheck": true,
+    "jsx": "react",
+    "types": [
+      "@types/jest"
+    ],
+    "paths": {}
+  }
+}

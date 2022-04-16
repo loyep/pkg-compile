@@ -1,0 +1,15 @@
+{
+  "automerge": false,
+  "commitMessageAction": "Bump",
+  "commitMessageExtra": "to {{newValue}}",
+  "commitMessageTopic": "{{depName}}",
+  "extends": [
+    "config:base",
+    ":disableDependencyDashboard"
+  ],
+  "ignorePaths": [
+    "fixtures",
+    "test/"
+  ],
+  "packageRules": []
+}
