@@ -4,6 +4,9 @@
   <a href="https://www.npmjs.com/package/pkg-compile">
     <img src="https://badgen.net/npm/v/pkg-compile" alt="Version">
   </a>
+  <a href="https://github.com/ditejs/pkg-compile" target="_blank">
+    <img src="https://github.com/ditejs/pkg-compile/workflows/CI/badge.svg" alt="build status"  />
+  </a>
   <a href="https://github.com/ditejs/pkg-compile/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" />
   </a>
