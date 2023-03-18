@@ -36,7 +36,7 @@
     "minimist": "^1.2.6"
   },
   "devDependencies": {
-    "@pnpm/lockfile-file": "5.0.0",
+    "@pnpm/lockfile-file": "5.3.8",
     "@pnpm/logger": "4.0.0",
     "@types/fs-extra": "9.0.13",
     "@types/jest": "27.4.1",
